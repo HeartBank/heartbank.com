@@ -44,6 +44,10 @@ footer {
     align-items: center;
 }
 
+footer small {
+    order: 1;
+}
+
 header img {
     height: 60px;
 }
