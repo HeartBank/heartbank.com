@@ -14,28 +14,22 @@ template.innerHTML = `
         <nav>
             <ul>
                 <li>
-                    <h3>Bookeeping</h3>
+                    <h3>Government</h3>
                     <div>
                         <a href="#frontend-cohort"><button>Purchase Subscription</button></a>
-                        <h4>Learn</h4>
+                        <h4>United States</h4>
                         <menu>
-                            <li><a>Watch Videos on Udemy</a></li>
-                            <li><a>Read Textbook on Medium</a></li>
-                            <li><a href="#frontend-quiz">Take Quizzes to Check Understanding</a></li>
+                            <li><a>Nonprofit Bookeeping</a></li>
                         </menu>
-                        <h4>Practice</h4>
+                        <h4>Cambodia</h4>
                         <menu>
-                            <li><a href="#frontend-podcast">Podcast: Motivation & Coding Music</a></li>
-                            <li><a href="#frontend-code">Interactive Coding Exercises</a></li>
-                            <li><a>Remote Pair Programming on Discord</a></li>
-                            <li><a>Students' Solo Projects on Codepen</a></li>
+                            <li><a>eFile</a></li>
+                            <li><a>#Vote-a-Thon</a></li>
+                            <li><a>Land Registry</a></li>
                         </menu>
-                        <h4>Review</h4>
+                        <h4>Ukraine</h4>
                         <menu>
-                            <li><a>Live Demo: Music Apps</a></li>
-                            <li><a>Syntax Flashcards</a></li>
-                            <li><a>Students' Writings on Medium</a></li>
-                            <li><a>Mock Interviews on YouTube</a></li>
+                            <li><a>Reconstruction</a></li>
                         </menu>
                         <h4>Bonus: Advanced Lessons</h4>
                         <menu>
@@ -104,13 +98,13 @@ template.innerHTML = `
                     <h3>CEO</h3>
                     <div>
                         <a href="#coupon"><button>HeartBank.CEO</button></a>
-                        <h4>Inclusion & Diversity</h4>
+                        <h4>Decentralized Companies</h4>
                         <menu>
                             <li><a>Women & Minorities</a></li>
                             <li><a>Ukrainian Refugees</a></li>
                             <li><a>Cambodian Genocide</a></li>
                         </menu>
-                        <h4>Campuses</h4>
+                        <h4>Tech Economies</h4>
                         <menu>
                             <li><a>Cambodia</a></li>
                             <li><a>Ukraine</a></li>
@@ -128,7 +122,7 @@ template.innerHTML = `
                         <menu>
                             <li><a>Seeds</a></li>
                         </menu>
-                        <h4>Family Farms</h4>
+                        <h4>Family Orchards</h4>
                         <menu>
                             <li><a>Lands</a></li>
                         </menu>
