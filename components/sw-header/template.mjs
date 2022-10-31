@@ -14,37 +14,10 @@ template.innerHTML = `
         <nav>
             <ul>
                 <li>
-                    <h3>Government</h3>
-                    <div>
-                        <a href="#frontend-cohort"><button>Purchase Subscription</button></a>
-                        <h4>United States</h4>
-                        <menu>
-                            <li><a>Nonprofit Bookeeping</a></li>
-                        </menu>
-                        <h4>Cambodia</h4>
-                        <menu>
-                            <li><a>eFile</a></li>
-                            <li><a>#Vote-a-Thon</a></li>
-                            <li><a>Land Registry</a></li>
-                        </menu>
-                        <h4>Ukraine</h4>
-                        <menu>
-                            <li><a>Reconstruction</a></li>
-                        </menu>
-                        <h4>Bonus: Advanced Lessons</h4>
-                        <menu>
-                            <li><a>React and Redux</a></li>
-                            <li><a>Web Audio Production</a></li>
-                        </menu>
-                    </div>
-                </li>
-            </ul>
-            <ul>
-                <li>
                     <h3>Club</h3>
                     <div>
-                        <a href="#backend-cohort"><button>HeartBank.Club</button></a>
-                        <h4>Family Banks</h4>
+                        <a href="#HeartBank.Club"><button>HeartBank.Club</button></a>
+                        <!--<h4>Family Banks</h4>
                         <menu>
                             <li><a>Watch Videos on Udemy</a></li>
                             <li><a>Read Textbook on Medium</a></li>
@@ -63,7 +36,7 @@ template.innerHTML = `
                             <li><a>Syntax Flashcards</a></li>
                             <li><a>Students' Writings on Medium</a></li>
                             <li><a>Mock Interviews on YouTube</a></li>
-                        </menu>
+                        </menu>-->
                     </div>
                 </li>
             </ul>
@@ -71,13 +44,13 @@ template.innerHTML = `
                 <li>
                     <h3>Studio</h3>
                     <div>
-                        <a href="#ios-cohort"><button>HeartBank.Studio</button></a>
-                        <h4>Box Office</h4>
+                        <a href="#HeartBank.Studio"><button>HeartBank.Studio</button></a>
+                        <!--<h4>Box Office</h4>
                         <menu>
                             <li><a>Watch Videos on Udemy</a></li>
                             <li><a>Read Textbook on Medium</a></li>
                             <li><a href="#ios-quiz">Take Quizzes to Check Understanding</a></li>
-                        </menu>
+                        </menu>-->
                     </div>
                 </li>
             </ul>
@@ -85,11 +58,11 @@ template.innerHTML = `
                 <li>
                     <h3>Market</h3>
                     <div>
-                        <button>HeartBank.Market</button>
-                        <h4>Metaverse</h4>
+                        <a href="#HeartBank.Market"><button>HeartBank.Market</button></a>
+                        <!--<h4>Metaverse</h4>
                         <menu>
                             <li><a>NFTs</a></li>
-                        </menu>
+                        </menu>-->
                     </div>
                 </li>
             </ul>
@@ -97,8 +70,8 @@ template.innerHTML = `
                 <li>
                     <h3>CEO</h3>
                     <div>
-                        <a href="#coupon"><button>HeartBank.CEO</button></a>
-                        <h4>Decentralized Companies</h4>
+                        <a href="#HeartBank.CEO"><button>HeartBank.CEO</button></a>
+                        <!--<h4>Decentralized Companies</h4>
                         <menu>
                             <li><a>Women & Minorities</a></li>
                             <li><a>Ukrainian Refugees</a></li>
@@ -109,7 +82,7 @@ template.innerHTML = `
                             <li><a>Cambodia</a></li>
                             <li><a>Ukraine</a></li>
                             <li><a>United States</a></li>
-                        </menu>
+                        </menu>-->
                     </div>
                 </li>
             </ul>
@@ -117,8 +90,8 @@ template.innerHTML = `
                 <li>
                     <h3>Fund</h3>
                     <div>
-                        <a href="#coupon"><button>HeartBank.Fund</button></a>
-                        <h4>Tech CEOs</h4>
+                        <a href="#HeartBank.Fund"><button>HeartBank.Fund</button></a>
+                        <!--<h4>Tech CEOs</h4>
                         <menu>
                             <li><a>Seeds</a></li>
                         </menu>
@@ -133,6 +106,27 @@ template.innerHTML = `
                         <h4>Healthcare?</h4>
                         <menu>
                             <li><a>Lands</a></li>
+                        </menu>-->
+                    </div>
+                </li>
+            </ul>
+            <ul>
+                <li>
+                    <h3>Government</h3>
+                    <div>
+                        <h4>United States</h4>
+                        <menu>
+                            <li><a>Nonprofit Bookeeping</a></li>
+                        </menu>
+                        <h4>Cambodia</h4>
+                        <menu>
+                            <li><a>eFile</a></li>
+                            <li><a>#Vote-a-Thon</a></li>
+                            <li><a>Land Registry</a></li>
+                        </menu>
+                        <h4>Ukraine</h4>
+                        <menu>
+                            <li><a>Reconstruction</a></li>
                         </menu>
                     </div>
                 </li>
