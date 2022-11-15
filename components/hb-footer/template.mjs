@@ -30,7 +30,7 @@ template.innerHTML = `
                     <h5>Connect</h5>
                     <ul>
                         <li><a href="https://talk.siliconwat.org">Silicon Wat</a></li>
-                        <li><a href="https://youtube.com/c/HeartBank">YouTube</a></li>
+                        <li><a href="https://youtube.com/@HeartBank">YouTube</a></li>
                         <li><a href="https://twitter.com/heartbank">Twitter</a></li>
                     </ul>
                 </div>
