@@ -38,6 +38,7 @@ template.innerHTML = `
                     <h5>Contact</h5>
                     <ul>
                         <li><a href="mailto:thank@heartbank.com">thank@heartbank.com</a></li>
+                        <li><a href="https://siliconwat.dev">Silicon Wat Agency</a></li>
                     </ul>
                 </div>
             </section>
