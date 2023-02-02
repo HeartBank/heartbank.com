@@ -6,8 +6,8 @@ template.innerHTML = `
     <link rel="stylesheet" href="components/hb-header/shadow.css">
     <header>
         <section>
-            <a href="/"><img src="heartbank.png"></a>
-            <a href="/"><h1>HeartBank<sup>®</sup></h1></a>
+            <a href="#"><img src="heartbank.png"></a>
+            <h1>HeartBank<sup>®</sup></h1>
         </section>
         <input id="menu-toggle" type="checkbox">
         <label class='menu-button-container' for="menu-toggle">
@@ -17,7 +17,7 @@ template.innerHTML = `
             <li>
                 <h3>Club</h3>
                 <nav>
-                    <a href="#HeartBank.Club"><button>HeartBank.Club</button></a>
+                    <a href="https://heartbank.club"><button>HeartBank.Club</button></a>
                     <!--<h4>Family Banks</h4>
                     <menu>
                         <li><a>Watch Videos on Udemy</a></li>
@@ -43,7 +43,7 @@ template.innerHTML = `
             <li>
                 <h3>Studio</h3>
                 <nav>
-                    <a href="#HeartBank.Studio"><button>HeartBank.Studio</button></a>
+                    <a href="https://heartbank.studio"><button>HeartBank.Studio</button></a>
                     <!--<h4>Box Office</h4>
                     <menu>
                         <li><a>Watch Videos on Udemy</a></li>
@@ -55,7 +55,7 @@ template.innerHTML = `
             <li>
                 <h3>Market</h3>
                 <nav>
-                    <a href="#HeartBank.Market"><button>HeartBank.Market</button></a>
+                    <a href="https://heartbank.market"><button>HeartBank.Market</button></a>
                     <!--<h4>Metaverse</h4>
                     <menu>
                         <li><a>NFTs</a></li>
@@ -65,7 +65,7 @@ template.innerHTML = `
             <li>
                 <h3>CEO</h3>
                 <nav>
-                    <a href="#HeartBank.CEO"><button>HeartBank.CEO</button></a>
+                    <a href="https://heartbank.ceo"><button>HeartBank.CEO</button></a>
                     <!--<h4>Decentralized Companies</h4>
                     <menu>
                         <li><a>Women & Minorities</a></li>
@@ -83,7 +83,7 @@ template.innerHTML = `
             <li>
                 <h3>Fund</h3>
                 <nav>
-                    <a href="#HeartBank.Fund"><button>HeartBank.Fund</button></a>
+                    <a href="https://heartbank.fund"><button>HeartBank.Fund</button></a>
                     <!--<h4>Tech CEOs</h4>
                     <menu>
                         <li><a>Seeds</a></li>
