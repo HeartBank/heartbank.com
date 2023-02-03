@@ -13,7 +13,7 @@ template.innerHTML = `
         <tl-kiitos></tl-kiitos>
     </main>
     <footer>
-        <!--<tl-robot></tl-robot>-->
+        <tl-robot></tl-robot>
     </footer>
     <img src="components/hb-main/background.svg">
 `;
