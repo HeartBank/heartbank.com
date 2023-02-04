@@ -44,7 +44,7 @@ template.innerHTML = `
             </section>
         </main>
         <footer>
-            <small><a href="https://heartbank.org">HeartBank® Foundation</a> &copy; 2023</small>
+            <small><a href="https://heartbank.org">HeartBank<sup>®</sup> Foundation</a> &copy; 2023</small>
         </footer>
     </nav>
 `;
