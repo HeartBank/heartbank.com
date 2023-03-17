@@ -16,6 +16,18 @@ template.innerHTML = `
         <div>
             <ul>
                 <li>
+                    <h3>Kiitti</h3>
+                    <nav>
+                        <a href="https://kiitti.app"><button>Kiitti.app</button></a>
+                        <!--<h4>Box Office</h4>
+                        <menu>
+                            <li><a>Watch Videos on Udemy</a></li>
+                            <li><a>Read Textbook on Medium</a></li>
+                            <li><a href="#ios-quiz">Take Quizzes to Check Understanding</a></li>
+                        </menu>-->
+                    </nav>
+                </li>
+                <li>
                     <h3>Club</h3>
                     <nav>
                         <a href="https://heartbank.club"><button>HeartBank.Club</button></a>
@@ -103,7 +115,7 @@ template.innerHTML = `
                         </menu>-->
                     </nav>
                 </li>
-                <li>
+                <!--<li>
                     <h3>Government</h3>
                     <nav>
                         <h4>United States</h4>
@@ -121,7 +133,7 @@ template.innerHTML = `
                             <li><a>Reconstruction</a></li>
                         </menu>
                     </nav>
-                </li>
+                </li>-->
             </ul>
         </div>
         <aside>
