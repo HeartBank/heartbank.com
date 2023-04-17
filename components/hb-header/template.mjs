@@ -54,6 +54,16 @@ template.innerHTML = `
                     </nav>
                 </li>
                 <li>
+                    <h3>Market</h3>
+                    <nav>
+                        <a href="https://heartbank.market"><button>HeartBank.Market</button></a>
+                        <!--<h4>Metaverse</h4>
+                        <menu>
+                            <li><a>NFTs</a></li>
+                        </menu>-->
+                    </nav>
+                </li>
+                <li>
                     <h3>Studio</h3>
                     <nav>
                         <a href="https://heartbank.studio"><button>HeartBank.Studio</button></a>
@@ -62,16 +72,6 @@ template.innerHTML = `
                             <li><a>Watch Videos on Udemy</a></li>
                             <li><a>Read Textbook on Medium</a></li>
                             <li><a href="#ios-quiz">Take Quizzes to Check Understanding</a></li>
-                        </menu>-->
-                    </nav>
-                </li>
-                <li>
-                    <h3>Market</h3>
-                    <nav>
-                        <a href="https://heartbank.market"><button>HeartBank.Market</button></a>
-                        <!--<h4>Metaverse</h4>
-                        <menu>
-                            <li><a>NFTs</a></li>
                         </menu>-->
                     </nav>
                 </li>
