@@ -28,6 +28,24 @@ template.innerHTML = `
                     </nav>
                 </li>
                 <li>
+                    <h3>CEO</h3>
+                    <nav>
+                        <a href="https://heartbank.ceo"><button>HeartBank.CEO</button></a>
+                        <!--<h4>Decentralized Companies</h4>
+                        <menu>
+                            <li><a>Women & Minorities</a></li>
+                            <li><a>Ukrainian Refugees</a></li>
+                            <li><a>Cambodian Genocide</a></li>
+                        </menu>
+                        <h4>Tech Economies</h4>
+                        <menu>
+                            <li><a>Cambodia</a></li>
+                            <li><a>Ukraine</a></li>
+                            <li><a>United States</a></li>
+                        </menu>-->
+                    </nav>
+                </li>
+                <li>
                     <h3>Club</h3>
                     <nav>
                         <a href="https://heartbank.club"><button>HeartBank.Club</button></a>
@@ -72,24 +90,6 @@ template.innerHTML = `
                             <li><a>Watch Videos on Udemy</a></li>
                             <li><a>Read Textbook on Medium</a></li>
                             <li><a href="#ios-quiz">Take Quizzes to Check Understanding</a></li>
-                        </menu>-->
-                    </nav>
-                </li>
-                <li>
-                    <h3>CEO</h3>
-                    <nav>
-                        <a href="https://heartbank.ceo"><button>HeartBank.CEO</button></a>
-                        <!--<h4>Decentralized Companies</h4>
-                        <menu>
-                            <li><a>Women & Minorities</a></li>
-                            <li><a>Ukrainian Refugees</a></li>
-                            <li><a>Cambodian Genocide</a></li>
-                        </menu>
-                        <h4>Tech Economies</h4>
-                        <menu>
-                            <li><a>Cambodia</a></li>
-                            <li><a>Ukraine</a></li>
-                            <li><a>United States</a></li>
                         </menu>-->
                     </nav>
                 </li>
